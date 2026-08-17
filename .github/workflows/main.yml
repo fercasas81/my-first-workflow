@@ -39,5 +39,6 @@ jobs:
         echo "Iniciando despliegue en ambiente de Staging..."
         mkdir -p staging_dir
         cp -r *.py staging_dir/
+        ls -la ./staging_dir
         echo "Archivos copiados exitosamente a staging_dir/"
         echo "¡Despliegue exitoso!"

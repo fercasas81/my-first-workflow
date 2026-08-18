@@ -1,5 +1,5 @@
 def suma(a, b):
-    """Calcula la suma de dos números 1."""
+    """Calcula la suma de dos números 2."""
     return a + b
 
 def resta(a, b):
